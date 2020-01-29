@@ -5,7 +5,7 @@ Changes the text color of the string displayed when the button is clicked.
 
 ### App Walk-though
 
-<img src="http://g.recordit.co/GE1CphrLv5.gif" width=200><br>
+<img src="http://g.recordit.co/eqNVMLakXr.gif" width=200><br>
 
 ### Required User Stories
 - [x] 1. User sees custom text in a label - Hello from {name}!
